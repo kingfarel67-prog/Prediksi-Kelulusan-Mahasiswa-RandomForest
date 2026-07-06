@@ -1,0 +1,15 @@
+Prediksi-Kelulusan-Mahasiswa-RandomForest
+│
+├── dataset
+│   └── student_data.csv
+│
+├── model
+│   └── random_forest.pkl
+│
+├── notebook
+│   └── RandomForest_PrediksiKelulusan.ipynb
+│
+├── app.py
+├── requirements.txt
+├── README.md
+└── LICENSE
